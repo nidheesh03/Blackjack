@@ -77,12 +77,3 @@ table{
     float:left;
     margin-left:30px;
 }
-@media only screen  and (min-width:300px){
-    #play-heading{
-        text-align: center;
-        margin-left: 600px;
-    }
-    #blackjack-heading{
-        margin-left:600px;
-    }
-}
